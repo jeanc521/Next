@@ -1,0 +1,1 @@
+<nav className="bg-neutral-950 text-white text-center">Personagens</nav>
